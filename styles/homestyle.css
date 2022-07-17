@@ -1,0 +1,14 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.banner-image{
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    height: 35rem;
+}
+
+.backed-color{
+    background-color: rgba(128, 128, 128, 0.733);
+}
+
